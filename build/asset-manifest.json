@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tinder-interface/static/css/main.750fbbf3.chunk.css",
+    "main.js": "/tinder-interface/static/js/main.2218d7cd.chunk.js",
+    "main.js.map": "/tinder-interface/static/js/main.2218d7cd.chunk.js.map",
+    "runtime~main.js": "/tinder-interface/static/js/runtime~main.440cd2c7.js",
+    "runtime~main.js.map": "/tinder-interface/static/js/runtime~main.440cd2c7.js.map",
+    "static/css/2.54346816.chunk.css": "/tinder-interface/static/css/2.54346816.chunk.css",
+    "static/js/2.173c1fbe.chunk.js": "/tinder-interface/static/js/2.173c1fbe.chunk.js",
+    "static/js/2.173c1fbe.chunk.js.map": "/tinder-interface/static/js/2.173c1fbe.chunk.js.map",
+    "index.html": "/tinder-interface/index.html",
+    "precache-manifest.582205e01e9dc396658293cdb5c4fa91.js": "/tinder-interface/precache-manifest.582205e01e9dc396658293cdb5c4fa91.js",
+    "service-worker.js": "/tinder-interface/service-worker.js",
+    "static/css/2.54346816.chunk.css.map": "/tinder-interface/static/css/2.54346816.chunk.css.map",
+    "static/css/main.750fbbf3.chunk.css.map": "/tinder-interface/static/css/main.750fbbf3.chunk.css.map",
+    "static/media/index.css": "/tinder-interface/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
