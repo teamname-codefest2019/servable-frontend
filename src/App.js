@@ -4,6 +4,7 @@ import "./App.css";
 import Buttons from "./components/Buttons";
 import CardDeck from "./components/CardDeck";
 import NavBar1 from "./components/NavBar1";
+import EventsPage from "./components/EventsPage";
 
 const IMAGE_URLS = [
   "/scottys_house.jpg",
@@ -41,6 +42,7 @@ class App extends Component {
           cards={this.state.cards}
           shiftCard={this.shiftCard.bind(this)}
         />
+        <EventsPage />
       </div>
     );
   }
